@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-xl">
     <div class="scroll justify-center" style="height: 82vh">
-      <div class="q-text-h3 text-bold q-mb-md">Welcome to students page</div>
+      <div class="text-h4 text-bold q-mb-md">Welcome to students page</div>
       <div
         v-if="students.length > 0"
         class="q-pa-md example-row-stacked-to-horizontal"
