@@ -8,7 +8,7 @@
       </div>
       <img
         alt="Quasar logo"
-        src="~assets/quasar-logo-vertical.svg"
+        src="~assets/home-img.jpg"
         style="width: 200px; height: 200px"
       />
     </div>
