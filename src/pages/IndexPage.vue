@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center text-grey">
     <div>
-      <div class="text-h2 text-bold q-mb-md">Welcom Home</div>
+      <div class="text-h2 text-bold q-mb-md">Welcome Home</div>
       <div class="text-h6 q-mb-md">
         this is my first application to practice my knowledges on vue js using
         Quasar framework
