@@ -10,7 +10,11 @@
     "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
     "test": "echo \"No test specified\" && exit 0",
     "dev": "quasar dev",
-    "build": "quasar build"
+    "build": "quasar build",
+    "spa-deploy-dev": "vercel",
+    "spa-deploy-prod": "vercel --prod",
+    "electron-dev": "quasar dev -m electron",
+    "electron-build": "quasar build -m electron"
   },
   "dependencies": {
     "@quasar/extras": "^1.16.4",
